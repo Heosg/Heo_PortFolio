@@ -14,7 +14,7 @@
 * Address : 경기도 부천
 * 학력 : 레저리조트학과 (졸업)
 * E-mail : hsg9558@daum.net
-* Github : Hwangsunae88
+* Github : 
 
 <!-- todo : 프로필 링크페이지
 
