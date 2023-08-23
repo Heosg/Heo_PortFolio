@@ -14,7 +14,8 @@
 * Address : 경기도 부천
 * 학력 : 레저리조트학과 (졸업)
 * E-mail : hsg9558@daum.net
-* Github : 
+* Github :
+* 프로필 링크 페이지 : https://heosg.github.io/mypage/
 
 <!-- todo : 프로필 링크페이지
 
