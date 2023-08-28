@@ -17,10 +17,6 @@
 * Github :Heosg
 * 프로필 링크 페이지 : https://heosg.github.io/mypage/
 
-``` 
-아직 수정중입니다
-```
-
 ## Activity
 
 + ** 경동대학교 / 레저리조트학과 졸업**
