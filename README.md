@@ -1,6 +1,6 @@
 # Heo_PortFolio
 
-# 긍정적인 마인드 소유자, 신입개발자 허승경 입니다!  
+# 항상 최선을 다하고 노력하는 신입개발자 허승경 입니다!  
 ```Hello, It's newbie here```
  
 
@@ -12,29 +12,17 @@
 * Name : 허승경
 * Birth : 1995.05.08
 * Address : 경기도 부천
-* 학력 : 레저리조트학과 (졸업)
+* 학력 : 경동대/레저리조트학과 (졸업)
 * E-mail : hsg9558@daum.net
-* Github :
+* Github :Heosg
 * 프로필 링크 페이지 : https://heosg.github.io/mypage/
-
-<!-- todo : 프로필 링크페이지
-
-  -->
 
 ``` 
 아직 수정중입니다
 ```
 
-
-## Project 
-
-#### Java
-<!--
-> 
- + 
- -->
-
 ## Activity
+
 + ** 경동대학교 / 레저리조트학과 졸업**
 
 + **이젠 IT 아카데미**
@@ -43,56 +31,47 @@
    + Languages & Platforms : JAVA / Spring Framework / HTML / CSS / JSP / JavaScript / JQuery
    + Tools : Eclipse / Visual Studio Code / GitHub / Tomcat
 
+ + **(주)인스웨이브시스템즈**
+   + 기간 : 2023.03
+   + 내용 : WebSquare 전문가 Level2 온라인 과정 : WebSquare5 구동 & 설정 & SpringFramework 연계 방법
 
 ## Career
-
 
 > **아이티키** |  주임 (2022. 07 ~ 2023.06)
 
   + 주요업무: : JAVA 웹 개발 (기업 파견 웹개발 업무 진행 )
-  + Languages & Platforms : JAVA / Spring Framework / HTML / CSS / JSP / JavaScript / JQuery
+  + Languages & Platforms : JAVA / Spring Framework / HTML / CSS / JSP / JavaScript / JQuery / bootstrap
   + DB: Oracle / MySQL
-  + Tools : Eclipse / Workbench / Visual Studio Code / GitHub / SVN / Tomcat
+  + Tools : Eclipse / Workbench / Visual Studio Code / GitHub / SVN / Tomcat / Orange
 
-## Project (프로젝트 담당부분 상세한 내용)
+> **서울리프트** |  설계 사원 (2021. 05 ~ 2021.10)
 
-#### Java
-<!--
-> **TeachHaeDuo 과외중개 웹사이트** 
-  + 수행기간: 2022.03.30~2022.05.16
-  + 개발목표: 맞춤과목 과외중개 사이트 개발
-  + 개발 환경
-  <img src="https://user-images.githubusercontent.com/98323305/194766704-65c85da3-1b0c-4240-ab2d-ded399a4369e.jpg" width="400" height="250"/>
+  + 주요업무: : CAD를 통한 엘레베이터 인승별 설계와 발주 및 사무
 
-  + 프로젝트 시 활용해본 대표 기술 : Servlet , jQuery, Ajax
 
-  + 구현 기능 
-    - 회원가입(정규식 유효성 체크, 이메일 인증, 주소 API)
-    - 로그인
-    - 아이디 찾기, 비밀번호 찾기 , 비밀번호 재설정
-    - 이용방법 (UI 화면 작성)
-    - 관리자 페이지(회원 정보 조회)
-    - 관리자 페이지 UI 화면 전체 작성
-      - SQL문 활용하여 DB연결 
-      - SQL문 활용하여 DB에 데이터 inset, update, select문으로 회원가입,회원조회 
-      - Ajax 비동기 post방식으로 data값을 받아서 Controller 호출하여 DB값 동일 값 체크 및 중복체크 후 return
-      - Ajax 비동기 post방식으로 이메일 인증번호생성 메소드 작성 후 SMTP 서버 정보 설정하여 인증번호 이메일 보내기 기능 구현
-      - jQuery on Function 함수를 이용하여 회원가입 유효성검사 실행
-      - jQuery focusout Function 함수 사용하여 DB데이터 중복데이터 확인
-      - jQuery click Function 함수 활용하여 입력 값 유무체크 
-      - 파일 업로드 기능 
-      - 자바스크립트로 카카오 주소찾기 APl 기능 사용 
-      -	관리자서비스- 로그인, 로그아웃, 회원정보 전체조회 
-      - SQL문 활용하여 DB연결 및 select 문 진행
-      - Ajax 비동기 post방식으로 data값을 받아서 Controller 호출하여 DB값 동일 값 체크 return
-      - JSTL 반복문(forEach)사용하여 회원정보목록 기능구현
-  + DB 설계 :
-  [ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)
 
-  + 담당 역할 및기여도: 25%(팀 구성원 5명)
+## Project 
 
-  + 구현 기능 스토리보드 : 
-  [구현기능 스토리보드(pdf링크)](https://github.com/Hwangsunae88/Portfolio/blob/c94b287b68e05daa8b231a85ae15550c4ee63c9b/%EC%84%B8%EB%AF%B8_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C_%ED%99%A9%EC%84%A0%EC%95%A0.pdf)
+> **날씨정보 알림 서비스 개발** 
+  + 연계/소속회사 : 아이티키
+  + 수행 기간 : 22.03~ 22.06 (약 4개월 소요)
+  + 주요 역할 : 웹 사이트 개발
+  + 업무 성과 : 관리자 및 사용자 파트 DB 작업 및 화면 작업
+  + 사용 언어 : JAVA
+  + 개발 환경 : Windows, GitHub, MySQL, thymeleaf, Spring Boot
 
--->
+> **EQM-Rental 장비 대여 시스템** 
+  + 수행 기간 : 22.12 ~ 23.02 (약 3개월 소요)
+  + 인    원 : 5명
+  + 주요 역할 : 웹 사이트 개발
+  + 업무 성과 : 관리자/사용자/기업 파트 DB 작업 및 화면 작업
+  + 내    용 : 대여한 장비에 대한 통계에 집중하여 개발
+  + 개발 환경 : MySQL, thymeleaf, bootstrap, GitHub, Mac
+
+> **현대제철 프로세스혁신 3단계 시스템구축** 
+  + 연계/소속회사 : 현대제철
+  + 수행 기간 : 22.08 ~ 22.12 (약 5개월 소요)
+  + 주요 역할 : 화면 수정 & 표준화 작업
+  + 업무 성과 : 현대 제철 내부 페이지 IE5 -> IE11로 변경하면서 생기는 html5 스크립트 오류 개선 및 JS 표준화
+  + 개발 환경 : Windows, Orange, SoftManager
 
